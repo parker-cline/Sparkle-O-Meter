@@ -3,7 +3,8 @@ Sparkle, sparkle!
 
 As you know, when you write an essay for your English class, you must **F L A U N T   Y O U R   D I C T I O N.**
 The Sparkle-O-Meter will help you finetune your essay to ensure you are correctly **F L A U N T I N G  Y O U R  D I C T I O N.**
-Simply copy and paste your essay, and our unique and *totally reliable* algorithm will scan your essay to look for *P R E C I S E , S O P H I S T I C A T E D D I C T I O N* -- and give you a grade.
+Simply copy and paste your essay, and our unique and *totally reliable* algorithm will scan your essay to look for
+*P R E C I S E , S O P H I S T I C A T E D D I C T I O N* -- and give you a grade.
 ...aim for a 100%.
 
 # ...an explanation, please?
