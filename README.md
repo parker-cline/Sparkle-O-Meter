@@ -12,5 +12,7 @@ The program scans your essay for any of the 1000 most used English words (corpus
 Then, it grades your essay solely based on the amount of words that are not part of this list. In this way, only *precise, sophisticated diction* will count toward your grade.
 The Sparkle-O-Meter is completely reliable and totally is not designed as a satire of my English teacher.
 
+Memes are good for the soul.
+
 
 
